@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy edev-max</h1>
+<h1 align="center">Hola 👋, soy Edwin Rodriguez</h1>
 <h3 align="center">Lo deseas lo construyo 🚀</h3>
 
 <p align="center">
